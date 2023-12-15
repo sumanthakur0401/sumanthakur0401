@@ -16,7 +16,8 @@
 <h2>Things I know</h2>
 
 <p align="center">
-  <img src="https://chart.googleapis.com/chart?chs=300x300&cht=gom&chd=t:63,37&chl=Coding|Designing&chco=3498db,e74c3c" alt="Skills Chart"/>
+  <img src="https://img.shields.io/badge/Coding-63%25-success?style=for-the-badge" alt="Coding Pie Chart"/>
+  <img src="https://img.shields.io/badge/Designing-37%25-informational?style=for-the-badge" alt="Designing Pie Chart"/>
 </p>
 
 
