@@ -5,7 +5,7 @@
 <h1>👋 Hi, I'm Suman Thakur</h1>
 
 <!-- About Me Section -->
-<p align="justify>
+<p>
   Master's in Computer Applications and a diverse skill set in Coding & Designing.</br> 
   Adept at developing robust applications for both web and mobile platforms.</br> 
   Proven experience in translating complex concepts into visually appealing designs.
@@ -16,7 +16,7 @@
 
 <p>
   <b>Web Development:</b> 
-  <ul align="center">
+  <ul>
       <li>HTML</li>
       <li>CSS/SCSS</li>
       <li>JavaScript</l>
@@ -24,7 +24,7 @@
   </ul>
   <br/>
   <b>Android Development:</b> 
-  <ul align="center">
+  <ul>
       <li>Java</li>
       <li>XML</li>
       <li>Dart</li>
@@ -33,7 +33,7 @@
   </ul>
   <br/> 
   <b>Database:</b>
-  <ul align="center">
+  <ul>
       <li>SQL</li>
       <li>NoSQL</li>
       <li>Firebase</li>
@@ -41,7 +41,7 @@
   </ul>
   <br/>
   <b>Graphic Design:</b>
-  <ul align="center">
+  <ul>
       <li>Photoshop</li>
       <li>Illustrator</li>
       <li>XD</li>
