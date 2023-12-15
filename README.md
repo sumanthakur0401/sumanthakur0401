@@ -16,7 +16,7 @@
 
 <p align="center">
   <b>Programming Languages:</b> 
-  <ul>
+  <ul align="center">
       <li>HTML</li>
       <li>CSS/SCSS</li>
       <li>JavaScript</li>
