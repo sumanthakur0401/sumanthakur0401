@@ -15,6 +15,11 @@
 <!-- Skills Section -->
 <h2>Things I know</h2>
 
+<p align="center">
+  <img src="https://chart.googleapis.com/chart?chs=300x300&cht=gom&chd=t:63,37&chl=Coding|Designing&chco=3498db,e74c3c" alt="Skills Chart"/>
+</p>
+
+
 ### Web Development
 
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
