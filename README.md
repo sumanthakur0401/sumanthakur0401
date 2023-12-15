@@ -12,7 +12,6 @@
 <!-- Skills Section -->
 <h2>Things I know</h2>
 
-<p>
   <b>Web Development:</b> 
   <ul>
       <li>HTML</li>
@@ -46,6 +45,5 @@
       <li>Figma</li>
   </ul>
   <br/>
-</p>
 
 <!-- Projects Section -->
