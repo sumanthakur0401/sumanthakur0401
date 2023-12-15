@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="your-profile-picture-url" alt="Your Name" width="150"/>
+  <img src="your-profile-picture-url" alt="Suman Thakur" width="150"/>
 </p>
 <h1 align="center">👋 Hi, I'm Suman Thakur</h1>
 
