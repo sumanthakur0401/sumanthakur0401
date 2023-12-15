@@ -13,6 +13,7 @@
 <h2>Things I know</h2>
 
 <p>
+  <br/> 
   <b>Web Development:</b> 
   <ul>
       <li>HTML</li>
@@ -20,7 +21,7 @@
       <li>JavaScript</l>
       <li>ReactJs</li>
   </ul>
-  
+  <br/> 
   <b>Android Development:</b> 
   <ul>
       <li>Java</li>
