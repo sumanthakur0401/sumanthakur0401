@@ -12,6 +12,7 @@
 <!-- Skills Section -->
 <h2>Things I know</h2>
 
+<p>
   <b>Web Development:</b> 
   <ul>
       <li>HTML</li>
@@ -19,7 +20,7 @@
       <li>JavaScript</l>
       <li>ReactJs</li>
   </ul>
-  <br/>
+  
   <b>Android Development:</b> 
   <ul>
       <li>Java</li>
@@ -45,5 +46,6 @@
       <li>Figma</li>
   </ul>
   <br/>
+</p>
 
 <!-- Projects Section -->
