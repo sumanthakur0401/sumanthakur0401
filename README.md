@@ -15,7 +15,16 @@
 <h2 align="center">Skills</h2>
 
 <p align="center">
-  <b>Programming Languages:</b> [List programming languages you are proficient in]<br/>
+  <b>Programming Languages:</b> 
+  <ul>
+      <li>HTML</li>
+      <li>CSS/SCSS</li>
+      <li>JavaScript</li>
+      <li>JAVA</li>
+      <li>ReactJs</li>
+      <li>HTML</li>
+  </ul>
+  <br/>
   <b>Web Development:</b> [List relevant web development technologies or frameworks]<br/>
   <b>Data Science:</b> [List data science tools or languages you are familiar with]<br/>
   <b>Other Skills:</b> [Any other relevant skills you want to highlight]
