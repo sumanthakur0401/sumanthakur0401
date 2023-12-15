@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-ezjDB1KnqW5Tz3z1fC0NRdYrJqXtdl7Hjr53V5hQFz7eIe4RG98Sn7S2sTzvWNTl" crossorigin="anonymous">
+
+
 <!-- Header Section -->
 <p>
   <img src="https://sumanual.vercel.app/static/media/me.a1baeb2361aa6da81aaf.jpg" alt="Suman Thakur" width="150"/>
@@ -24,8 +27,7 @@
   <br/> 
   <b>Android Development:</b> 
   <ul>
-      <li> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-ezjDB1KnqW5Tz3z1fC0NRdYrJqXtdl7Hjr53V5hQFz7eIe4RG98Sn7S2sTzvWNTl" crossorigin="anonymous">
- Java</li>
+      <li> ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  Java</li>
       <li>XML</li>
       <li>Dart</li>
       <li>Android Studio</li>
