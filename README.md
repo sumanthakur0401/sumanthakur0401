@@ -14,7 +14,7 @@
 <!-- Skills Section -->
 <h2 align="center">Things I know</h2>
 
-<p align="center">
+<p>
   <b>Web Development:</b> 
   <ul align="center">
       <li>HTML</li>
