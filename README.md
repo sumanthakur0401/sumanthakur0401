@@ -6,9 +6,7 @@
 
 <!-- About Me Section -->
 <p>
-  Master's in Computer Applications and a diverse skill set in Coding & Designing.</br> 
-  Adept at developing robust applications for both web and mobile platforms.</br> 
-  Proven experience in translating complex concepts into visually appealing designs.
+  Master's in Computer Applications and a diverse skill set in Coding & Designing. Adept at developing robust applications for both web and mobile platforms. Proven experience in translating complex concepts into visually appealing designs.
 </p>
 
 <!-- Skills Section -->
