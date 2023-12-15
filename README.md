@@ -1,18 +1,18 @@
 <!-- Header Section -->
-<p align="center">
+<p>
   <img src="https://sumanual.vercel.app/static/media/me.a1baeb2361aa6da81aaf.jpg" alt="Suman Thakur" width="150"/>
 </p>
-<h1 align="center">👋 Hi, I'm Suman Thakur</h1>
+<h1>👋 Hi, I'm Suman Thakur</h1>
 
 <!-- About Me Section -->
-<p align="center">
+<p align="justify>
   Master's in Computer Applications and a diverse skill set in Coding & Designing.</br> 
   Adept at developing robust applications for both web and mobile platforms.</br> 
   Proven experience in translating complex concepts into visually appealing designs.
 </p>
 
 <!-- Skills Section -->
-<h2 align="center">Things I know</h2>
+<h2>Things I know</h2>
 
 <p>
   <b>Web Development:</b> 
