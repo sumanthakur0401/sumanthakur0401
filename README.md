@@ -12,22 +12,42 @@
 </p>
 
 <!-- Skills Section -->
-<h2 align="center">Skills</h2>
+<h2 align="center">Things I know</h2>
 
 <p align="center">
-  <b>Programming Languages:</b> 
+  <b>Web Development:</b> 
   <ul align="center">
       <li>HTML</li>
       <li>CSS/SCSS</li>
-      <li>JavaScript</li>
-      <li>JAVA</li>
+      <li>JavaScript</l>
       <li>ReactJs</li>
-      <li>HTML</li>
   </ul>
   <br/>
-  <b>Web Development:</b> [List relevant web development technologies or frameworks]<br/>
-  <b>Data Science:</b> [List data science tools or languages you are familiar with]<br/>
-  <b>Other Skills:</b> [Any other relevant skills you want to highlight]
+  <b>Android Development:</b> 
+  <ul align="center">
+      <li>Java</li>
+      <li>XML</li>
+      <li>Dart</li>
+      <li>Android Studio</li>
+      <li>Flutter</li>
+  </ul>
+  <br/> 
+  <b>Database:</b>
+  <ul align="center">
+      <li>SQL</li>
+      <li>NoSQL</li>
+      <li>Firebase</li>
+      <li>MongoDB</li>
+  </ul>
+  <br/>
+  <b>Graphic Design:</b>
+  <ul align="center">
+      <li>Photoshop</li>
+      <li>Illustrator</li>
+      <li>XD</li>
+      <li>Figma</li>
+  </ul>
+  <br/>
 </p>
 
 <!-- Projects Section -->
