@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="me.jpg" alt="Suman Thakur" width="150"/>
+  <img src="assets/me.jpg" alt="Suman Thakur" width="150"/>
 </p>
 <h1 align="center">👋 Hi, I'm Suman Thakur</h1>
 
