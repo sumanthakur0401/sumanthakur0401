@@ -2,12 +2,13 @@
 <p align="center">
   <img src="your-profile-picture-url" alt="Your Name" width="150"/>
 </p>
-<h1 align="center">👋 Hi, I'm Your Name</h1>
+<h1 align="center">👋 Hi, I'm Suman Thakur</h1>
 
 <!-- About Me Section -->
 <p align="center">
-  A passionate [your role/occupation] based in [your location].<br/>
-  Exploring the world of [mention any specific areas of interest or projects you enjoy].
+  Master's in Computer Applications and a diverse skill set in Coding & Designing.</br> 
+  Adept at developing robust applications for both web and mobile platforms.</br> 
+  Proven experience in translating complex concepts into visually appealing designs.
 </p>
 
 <!-- Skills Section -->
