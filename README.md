@@ -1,16 +1,29 @@
-### Hi there 👋
+## hey!!!
+# I am Suman Thakur
 
-<!--
-**sumanthakur0401/sumanthakur0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Master's in Computer Applications and a diverse skill set in Coding & Designing. Adept at developing robust applications for both web and mobile platforms. Proven experience in translating complex concepts into visually appealing designs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages:** [List programming languages you are proficient in]
+- **Web Development:** [List relevant web development technologies or frameworks]
+- **Data Science:** [List data science tools or languages you are familiar with]
+- **Other Skills:** [Any other relevant skills you want to highlight]
+
+## Projects
+
+Here are some projects I have worked on:
+
+1. [Project 1](link-to-project-1): Brief description of the project.
+2. [Project 2](link-to-project-2): Brief description of the project.
+
+## Contact
+
+- Email: [Your Email]
+- LinkedIn: [Your LinkedIn Profile]
+- Twitter: [Your Twitter Handle]
+
+Feel free to reach out if you have any questions or just want to connect!
+
