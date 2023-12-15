@@ -19,7 +19,7 @@
   <br/> 
   <b>Web Development:</b> 
   <ul>
-      <li>HTML</li>
+      <li>![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</li>
       <li>CSS/SCSS</li>
       <li>JavaScript</l>
       <li>ReactJs</li>
