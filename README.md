@@ -68,7 +68,7 @@
 
 - Portfolio: https://sumanual.vercel.app/
 - Email: suman040100@gmail.com
-- LinkedIn: @iamsumanthakur
+- LinkedIn: www.linkedin.com/in/iamsumanthakur
 - Twitter: @thakur0401
 
 ### Feel free to reach out if you have any questions or just want to connect!
