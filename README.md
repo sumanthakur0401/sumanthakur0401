@@ -19,19 +19,29 @@
   <img src="https://img.shields.io/badge/Designing-37%25-informational?style=for-the-badge" alt="Designing Pie Chart"/>
 </p>
 
-### Web Development
-
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![HTML Coding GIF](https://media.giphy.com/media/l0HlKc7AwbUDSZYE4/giphy.gif)
+  <video width="500" height="300" controls>
+    <source src="https://your-giphy-link-1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![CSS Coding GIF](https://media.giphy.com/media/lnbTX1MRJZJqIpQ1xD/giphy.gif)
+  <video width="500" height="300" controls>
+    <source src="https://your-giphy-link-2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![JavaScript Coding GIF](https://media.giphy.com/media/l4Epih7Ula4NrJHRs/giphy.gif)
+  <video width="500" height="300" controls>
+    <source src="https://your-giphy-link-3.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 
 - ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-  ![ReactJS Coding GIF](https://media.giphy.com/media/RJyxMl0YT5R5W/giphy.gif)
+  <video width="500" height="300" controls>
+    <source src="https://your-giphy-link-4.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 
 <!-- Add more sections with GIFs for Android Development, Graphic Design, Database, Others -->
 
