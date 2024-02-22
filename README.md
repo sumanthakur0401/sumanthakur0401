@@ -66,7 +66,7 @@
 
 ## Contact
 
-- Portfolio: [https://sumanual.vercel.app/](https://sumanthakur-delta.vercel.app/)
+- Portfolio: [Suman Thakur](https://sumanthakur-delta.vercel.app/)
 - Email: suman040100@gmail.com
 - LinkedIn: www.linkedin.com/in/iamsumanthakur
 - Twitter: @thakur0401
