@@ -69,6 +69,6 @@
 - Portfolio: [Suman Thakur](https://sumanthakur-delta.vercel.app/)
 - Email: suman040100@gmail.com
 - LinkedIn: www.linkedin.com/in/iamsumanthakur
-- Twitter: @thakur0401
+- Twitter: https://twitter.com/sumanthakurrr
 
 ### Feel free to reach out if you have any questions or just want to connect!
