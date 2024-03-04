@@ -3,7 +3,7 @@
 
 <!-- Header Section -->
 <p align="center">
-  <img src="https://sumanthakur-delta.vercel.app/assets/profile-2dca97ab.webp" alt="Suman intro image" width="450"/>
+  <img src="https://sumanthakur-delta.vercel.app/assets/profile-2dca97ab.webp" alt="Suman intro image" width="500"/>
 </p>
 <h1>👋 Hi, I'm Suman Thakur</h1>
 
